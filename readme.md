@@ -1,3 +1,5 @@
+Note: Since it will take a long time to train the model while pruning,the compressed model .npz file has been saved in compressed models folder, and the output of running main.py has been attached in output.txt
+
 # CNN Compression Pipeline for CIFAR-10
 
 A complete implementation of a 3-stage model compression pipeline for a VGG-style convolutional neural network trained on CIFAR-10. The objective is to significantly reduce model size while preserving accuracy, enabling efficient deployment on limited-resource systems.
