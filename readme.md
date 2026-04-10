@@ -133,7 +133,7 @@ Or programmatically:
 
 ---
 
-## Sample Results
+## Results
 
 | Metric | Value |
 |--------|------|
