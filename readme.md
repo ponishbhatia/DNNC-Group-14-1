@@ -135,9 +135,9 @@ Or programmatically:
 
 | Metric | Value |
 |--------|------|
-| Original Model Size | ~200+ MB |
-| Compressed Size | ~20–30 MB |
-| Compression Ratio | ~8–10× |
+| Original Model Size | 16.31 MB |
+| Compressed Size | 1.59 MB |
+| Compression Ratio | 10.28× |
 | Accuracy Drop | < 2% |
 | Bits per Weight | ~3 |
 
